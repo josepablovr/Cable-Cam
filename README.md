@@ -1,4 +1,4 @@
-# Cable Cam Project
+# Arduino Based Cable Cam
 
 Welcome to the Cable Cam Project! This project was born out of a need for a simple, efficient, and safe cable cam that can carry small cameras, perfect for capturing smooth shots. Dive in to learn how we made it from scratch!
 
