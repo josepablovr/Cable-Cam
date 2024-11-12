@@ -52,7 +52,7 @@ Our prototype is built with MDF and 3D-printed parts but is designed for aluminu
 
 Grab the blueprints and assemeble it:
 
-[Blueprints](docs/blueprints.pdf)
+[Blueprints](docs/Blueprints.pdf)
 
 [Instructions](docs/Assembly_Instructions.pdf)
 
