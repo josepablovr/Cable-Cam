@@ -20,12 +20,13 @@ The Arduino handles:
 Given the high loads on the motors during acceleration and deceleration, speed control is gradual to protect our 3D-printed parts. The code is optimized to avoid any blocking functions, making everything time-efficient and safe.
 
 Check out the softare diagram:
-<img src="docs/software_diagram.png" alt="Software Diagram" width="300"/>
+
+<img src="docs/software_diagram.jpg" alt="Software Diagram" width="300"/>
 
 
 
 
----
+
 
 ## Electrical Design
 
@@ -49,8 +50,10 @@ Take a look at the wiring diagram of the whole system:
 
 Our prototype is built with MDF and 3D-printed parts but is designed for aluminum sheet construction for greater durability. 
 
-Grab the blueprints and assmeble it:
+Grab the blueprints and assemeble it:
+
 [Blueprints](docs/blueprints.pdf)
+
 [Instructions](docs/Assembly_Instructions.pdf)
 
 
@@ -60,8 +63,18 @@ Grab the blueprints and assmeble it:
 ## Final Demo
 
 Now, see the cable cam in full motion!
-<video src="https://github.com/josepablovr/Cable-Cam/blob/main/docs/electrical.mp4.mp4" width="300" />
+
+https://github.com/user-attachments/assets/bbfa1e48-467a-44d3-9430-5e7186b1f9d9
 
 ---
 
-This README gives you the complete journey from concept to creation, with a focus on both functionality and safety. Enjoy exploring the project!
+Credits:
+
+- José Vásquez: Software and Electrical System Development
+- Gabriel Fuentes: Frame Design
+- Juan Jiménez: Power Transmission design
+- Adrián Orozco: Power Transmission design
+- Victor Vargas: Mechanical simulations
+- 
+
+Course: Manufacturing Systems | Mechatronics Engineering | Costa Rica Institute of Technology  | 2022
