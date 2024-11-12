@@ -50,7 +50,7 @@ Take a look at the wiring diagram of the whole system:
 
 Our prototype is built with MDF and 3D-printed parts but is designed for aluminum sheet construction for greater durability. 
 
-Grab the blueprints and assemeble it:
+Grab the blueprints and assemble it:
 
 [Blueprints](docs/Blueprints.pdf)
 
